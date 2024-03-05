@@ -5,13 +5,16 @@
       "apellido": "Urrutia",
       "materias": [
         {
-          "nombre": "NodeJS desde 0"
+          "nombre": "NodeJS"
         },
         {
-          "nombre": "React desde 0"
+          "nombre": "ReactJs"
         },
         {
           "nombre": "Javascript"
+        },
+        {
+          "nombre": "Python"
         }
       ],
       "id": "4673"
@@ -37,7 +40,7 @@
       "id": "05a1"
     },
     {
-      "nombre": "Alfonsinae",
+      "nombre": "Alfonsina",
       "apellido": "Storni",
       "promedio": 10,
       "id": "a706"
@@ -46,6 +49,16 @@
       "id": "1377",
       "nombre": "George",
       "apellido": "Orwell",
+      "promedio": 10
+    },
+    {
+      "nombre": "Indiana",
+      "apellido": "Jones",
+      "promedio": 8
+    },
+    {
+      "nombre": "Tanjiro",
+      "apellido": "Kamado",
       "promedio": 10
     }
   ],
@@ -70,15 +83,15 @@
     },
     {
       "id": "c42d",
-      "nombre": "Python 0",
-      "duracion": 8,
-      "dificultad": "intermedia"
-    },
-    {
-      "id": "c42d",
       "nombre": "Python desde 0",
       "duracion": 12,
       "dificultad": "intermedia"
+    },
+    {
+      "id": "27c0",
+      "nombre": "Django",
+      "duracion": 8,
+      "dificultad": "alta"
     }
   ]
 }
