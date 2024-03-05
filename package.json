@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "description": "Armado de un pequenio servidor con informacion de cursos",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Cecilia Urrutia",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

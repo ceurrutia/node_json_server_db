@@ -1,0 +1,84 @@
+{
+  "profesores": [
+    {
+      "nombre": "Cecilia",
+      "apellido": "Urrutia",
+      "materias": [
+        {
+          "nombre": "NodeJS desde 0"
+        },
+        {
+          "nombre": "React desde 0"
+        },
+        {
+          "nombre": "Javascript"
+        }
+      ],
+      "id": "4673"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Mario",
+      "apellido": "Rainen",
+      "promedio": 8.86,
+      "id": "758f"
+    },
+    {
+      "nombre": "Mariana",
+      "apellido": "Gonzales",
+      "promedio": 7.88,
+      "id": "8e06"
+    },
+    {
+      "nombre": "Felipe",
+      "apellido": "Perez",
+      "promedio": 9,
+      "id": "05a1"
+    },
+    {
+      "nombre": "Alfonsinae",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "a706"
+    },
+    {
+      "id": "1377",
+      "nombre": "George",
+      "apellido": "Orwell",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Nodejs desde 0",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "26f4"
+    },
+    {
+      "nombre": "React desde 0",
+      "duracion": 5,
+      "dificultad": "intermedia",
+      "id": "8fac"
+    },
+    {
+      "nombre": "Mongodb desde 0",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "5feb"
+    },
+    {
+      "id": "c42d",
+      "nombre": "Python 0",
+      "duracion": 8,
+      "dificultad": "intermedia"
+    },
+    {
+      "id": "c42d",
+      "nombre": "Python desde 0",
+      "duracion": 12,
+      "dificultad": "intermedia"
+    }
+  ]
+}
